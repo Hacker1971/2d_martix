@@ -1,8 +1,8 @@
 # 2d_martixD:\programming\for_febo>cd "d:\programming\for_febo\" && gcc multiplyMatrices.c -o multiplyMatrices && "d:\programming\for_febo\"multiplyMatrices
 Enter the 1st martix :
-1 2 3
-4 5 6
-7 8 9
+#1 2 3
+#4 5 6
+37 8 9
 Enter the 2nd martix : 
 9 8 7
 6 5 4
